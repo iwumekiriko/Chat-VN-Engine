@@ -65,7 +65,7 @@ npm run build
 
 ## Персонажи
 
-Персонажи создаются в файле `characters.ts`.
+Персонажи создаются в файле [characters.ts](https://github.com/iwumekiriko/Chat-VN-Engine/blob/main/src/scenario/characters.ts)
 
 Для каждого персонажа можно определить:
 
