@@ -49,7 +49,7 @@ npm run build
 
 # Создание собственной новеллы
 
-Весь игровой контент располагается в папке [scenario](https://github.com/iwumekiriko/Chat-VN-Engine/tree/main/scenario).
+Весь игровой контент располагается в папке [scenario](https://github.com/iwumekiriko/Chat-VN-Engine/tree/main/src/scenario).
 
 ---
 
@@ -78,13 +78,13 @@ npm run build
 
 ## Кампания
 
-Файл [campaign.ts](https://github.com/iwumekiriko/Chat-VN-Engine/blob/main/scenario/campaign.ts) помогает работать с загруженными главами сценария.
+Файл [campaign.ts](https://github.com/iwumekiriko/Chat-VN-Engine/blob/main/src/scenario/campaign.ts) помогает работать с загруженными главами сценария.
 
 ---
 
 ## Загадки
 
-Все загадки описываются в [puzzles.ts](https://github.com/iwumekiriko/Chat-VN-Engine/blob/main/scenario/puzzles.ts).
+Все загадки описываются в [puzzles.ts](https://github.com/iwumekiriko/Chat-VN-Engine/blob/main/src/scenario/puzzles.ts).
 
 После успешного решения загадки установливается необходимый флаг и продолжается выполнение сценария.
 
